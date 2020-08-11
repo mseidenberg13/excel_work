@@ -1,3 +1,5 @@
+# Analyzing Kickstarter in Excel
+
 # Excel Homework: Kickstart My Chart
 
 ## Background
@@ -6,13 +8,7 @@ Over $2 billion has been raised using the massively successful crowdfunding serv
 
 Getting funded on Kickstarter requires meeting or exceeding the project's initial goal, so many organizations spend months looking through past projects in an attempt to discover some trick for finding success. For this week's homework, you will organize and analyze a database of 4,000 past projects in order to uncover any hidden trends.
 
-### Before You Begin
-
-1. Create a new space for this project called `excel-challenge` in either DropBox or Google Drive. **Do not add this homework to an existing space**.
-
-2. Store your excel workbooks in here and create a sharable link for submission.
-
-## Instructions
+## Challenge
 
 ![Kickstarter Table](Images/FullTable.PNG)
 
@@ -57,6 +53,7 @@ Using the Excel table provided, modify and analyze the data of 4,000 past Kickst
 1. Given the provided data, what are three conclusions we can draw about Kickstarter campaigns?
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
+https://github.com/mseidenberg13/excel_work/blob/master/Excel%20Challange%20Questions.docx
 
 ## Bonus
 
@@ -120,12 +117,4 @@ For those looking for an additional challenge, you will evaluate the number of b
 
 * Use your data to determine whether the mean or the median summarizes the data more meaningfully.
 
-* Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
-
-## Submission
-
-* To submit your homework, upload the solution and files to a GitHub repo, Dropbox, or Google Drive and submit the link to <https://bootcampspot.com/>.
-
-- - -
-
-© 2019 Trilogy Education Services
+* Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not? https://github.com/mseidenberg13/excel_work/blob/master/Excel%20Challange%20Questions.docx
